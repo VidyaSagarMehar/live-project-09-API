@@ -45,17 +45,16 @@ https://apis-bulit.netlify.app/
 
 ## Features
 
-- Only for desktop view
+- Mobile responsive
 - Live previews
 - Fullscreen mode
-- Cross platform
 
 
 ## Roadmap
 
 - Additional browser support to be added.
 
-- Mobile responsivness will added soon.
+- Tablet responsivness will added soon.
 
 ## Feedback
 
