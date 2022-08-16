@@ -150,6 +150,18 @@ div.download-section{
 div.download-content{
   display: none;
 }
+form {
+  width: 300px;
+  margin-left: 50px;
+  display:flex;
+  flex-direction:row;
+  height: 40px;
+  border:2px solid grey;
+  border-radius: 22px;
+  padding:2px;
+  background-color: #E9EDFF;
+}
+
 .download-email{
   /* float: right; */
   /* margin-right: 250px; */
@@ -172,7 +184,7 @@ button {
 }
 
 .footer-section{
-  height: 400px;
+  height: 250px;
   background-color: #3C0AFE;
 }
 
@@ -195,7 +207,7 @@ button {
 }
 
 .logos-list{
-  text-align: center;
+
   display: flex;
   flex-direction: row;
   margin-left: 10px;
@@ -212,16 +224,23 @@ button {
 }
 
 .footer-right{
-  float: right;
+  /* float: right; */
   margin-top: 10px;
   margin-right: 100px;
 }
 
 .footer-logos{
+  width: 40px;
   margin-top: 50px;
   margin-left: 20px;
 }
-
+div.footer-section div ul li{
+  font-size: 10px;
+  text-align: center;
+}
+div.footer-left img{
+  display: none;
+}
 
 }
 
